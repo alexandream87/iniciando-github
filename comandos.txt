@@ -1,50 +1,13 @@
-git status
-git log
-git remote -v
-git commit -m "add arquivonovo.txt" arquivonovo.txt
-git log
-git push
-git status
-git log -2
-git log --graph --decorate
-history
-doskey /history
-doskey /history > comandos.txt
-git shoe --help
-git show --help
-git remote -v
-git logs
-git log
-cd ..
-help
-help | findstr dir
-mkdir aulao_gitlab
-git init
-git status
-cd aulao_gitlab
-git init
-dir
-git config --global user.name "Alexandre Moreira"
-git config --global user.email "alexandre@falcasoft.com"
-help | findstr arquivo
-help | findstr cria
-help | findstr novo
-dir
-notepad
-git status
-git remote -v
-cd ..
-dir
-cd aprendendo-terraform
-cd ..
-cd aulao_gitlab
-cd ..
-rm aulao_gitlab
-rmdir aulao_gitlab
-rmdir /f aulao_gitlab
-git clone https://github.com/alexandream87/iniciando-github.git
-cd iniciando-github
-dir
-notepad arquivonovo.txt
-git status
-git add arquivonovo.txt
+comandos git:
+
+clone: faz download do diretorio do github;
+
+add
+commit
+status
+log
+push
+config
+pull - atualiza o repo local com a ultima versão do arquivo no github
+
+rm - remove o arquivo da area de staging/index 
